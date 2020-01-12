@@ -1,0 +1,4 @@
+a p/1 ¬
+Z Z p/1 EXISTS
+Z X X a f/2 p/1 ∃ Y Y Z f/1 p/2 FORALL → FORALL
+Z Y X X b c q/3 Z Y f/1 p/2 ~ & EXISTS FORALL EXISTS
